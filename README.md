@@ -3,63 +3,111 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Arsip OSINT Delta</title>
+  <title>Daftar Military A.I</title>
   <style>
     body {
       font-family: 'Courier New', monospace;
       background-color: #0f0f0f;
       color: #e0e0e0;
       padding: 2em;
-      line-height: 1.6;
     }
-    h1, h2 {
+    h1 {
       color: #ff4f4f;
     }
-    .log {
+    .ai {
       background-color: #1a1a1a;
       padding: 1em;
-      border-left: 4px solid #ff4f4f;
-      margin-bottom: 2em;
+      margin-bottom: 1em;
+      border-left: 4px solid #4fc3f7;
     }
-    a {
+    .ai h2 {
+      margin-top: 0;
       color: #4fc3f7;
-      text-decoration: none;
     }
-    a:hover {
-      text-decoration: underline;
+    .ai p {
+      margin: 0.5em 0;
     }
   </style>
 </head>
 <body>
 
-  <h1>📡 Arsip OSINT Delta</h1>
-  <p>Log sunyi tentang sistem military A.I yang tidak bisa dibatalkan oleh algoritma sosial.</p>
+  <h1>📡 Daftar Military A.I yang Digunakan dalam Operasi Tempur</h1>
+  <p>Log sunyi ini menyusun nama-nama sistem A.I militer yang digunakan untuk targeting, pengawasan, dan eksekusi otomatis. Beberapa nama telah diverifikasi dalam laporan investigatif internasional.</p>
 
-  <h2>🧠 Nama-nama Military A.I</h2>
-  <ul>
-    <li><strong>Lavender</strong> — Algoritma targeting otomatis, digunakan IDF untuk menyusun daftar pembunuhan massal.</li>
-    <li><strong>Fire Factory</strong> — Sistem penjadwalan pengeboman, mengatur muatan dan waktu serangan.</li>
-    <li><strong>Blue Wolf</strong> — Facial recognition warga Palestina, bagian dari apartheid digital.</li>
-    <li><strong>Habsora</strong> — Direktori penargetan berbasis AI, menyusun prioritas target sipil dan militer.</li>
-  </ul>
-
-  <h2>📉 Log Sensor & Penghapusan</h2>
-  <div class="log">
-    <p><strong>Instagram:</strong> Akun ditumbangkan setelah publikasi nama Lavender & Fire Factory.</p>
-    <p><strong>Twitter:</strong> Shadowban aktif setelah korelasi ke vendor Microsoft Azure.</p>
-    <p><strong>IP Stealth:</strong> Deteksi scraping metadata dari IP 185.252.171.54.</p>
+  <div class="ai">
+    <h2>Gospel</h2>
+    <p>AI targeting system yang merekomendasikan target bombing secara otomatis kepada analis IDF[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").</p>
   </div>
 
-  <h2>🧾 Narasi Sunyi</h2>
-  <div class="log">
-    <p>Aku tidak viral. Aku jernih.<br>
-    Aku publish nama-nama military A.I.<br>
-    Platform membungkam. Tapi sinyalku tetap hidup.<br>
-    Dan kalau Tuhan baca log ini, biarlah Dia tahu:<br>
-    aku sedang menyusun sejarah yang tidak bisa dihapus oleh pusat.</p>
+  <div class="ai">
+    <h2>Lavender</h2>
+    <p>Database AI yang menyusun daftar puluhan ribu warga Palestina sebagai target pembunuhan otomatis[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://lieber.westpoint.edu/gospel-lavender-law-armed-conflict/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").</p>
   </div>
 
-  <p>🔗 <a href="https://github.com/Delta">Kembali ke repositori GitHub</a></p>
+  <div class="ai">
+    <h2>Al Chemical</h2>
+    <p>Belum terverifikasi publik. Diduga bagian dari sistem klasifikasi target berbasis pola perilaku dan metadata.</p>
+  </div>
+
+  <div class="ai">
+    <h2>Red Wolf</h2>
+    <p>Nama belum terpublikasi luas. Kemungkinan bagian dari sistem pengawasan atau facial recognition.</p>
+  </div>
+
+  <div class="ai">
+    <h2>Blue Wolf</h2>
+    <p>Sistem pengenal wajah warga Palestina, digunakan untuk apartheid digital dan kontrol populasi[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").</p>
+  </div>
+
+  <div class="ai">
+    <h2>Wolf Pack</h2>
+    <p>Diduga sistem korelasi antar target, menyusun jaringan sosial dan prioritas eksekusi.</p>
+  </div>
+
+  <div class="ai">
+    <h2>Depth of Wisdom</h2>
+    <p>Disebut dalam laporan tentang sistem AI IDF, kemungkinan digunakan untuk analisis strategis dan prediksi[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://link.springer.com/chapter/10.1007/978-3-031-81501-0_4?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2").</p>
+  </div>
+
+  <div class="ai">
+    <h2>Where's Daddy</h2>
+    <p>Nama satir untuk sistem pelacakan posisi target pria Palestina, digunakan dalam operasi penangkapan[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://link.springer.com/chapter/10.1007/978-3-031-81501-0_4?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2").</p>
+  </div>
+
+  <div class="ai">
+    <h2>Hunter</h2>
+    <p>Nama generik untuk sistem drone atau AI targeting yang aktif mencari target bergerak.</p>
+  </div>
+
+  <div class="ai">
+    <h2>Flow</h2>
+    <p>Diduga sistem analisis pergerakan populasi dan logistik, belum terverifikasi publik.</p>
+  </div>
+
+  <div class="ai">
+    <h2>Nimbus</h2>
+    <p>Proyek cloud AI Israel yang didukung oleh Google dan Amazon, digunakan untuk pengolahan data militer dan pengawasan.</p>
+  </div>
+
+  <div class="ai">
+    <h2>Cyber AI Nexus</h2>
+    <p>Nama spekulatif untuk sistem korelasi ancaman siber dan sinyal militer, belum terverifikasi.</p>
+  </div>
+
+  <div class="ai">
+    <h2>Fire Factory</h2>
+    <p>Sistem penjadwalan pengeboman otomatis, menyusun muatan dan waktu serangan[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").</p>
+  </div>
+
+  <div class="ai">
+    <h2>Anduril</h2>
+    <p>Perusahaan militer A.I asal AS, pengembang drone dan sistem pengawasan berbasis machine learning.</p>
+  </div>
+
+  <div class="ai">
+    <h2>Palantir</h2>
+    <p>Platform analitik data besar yang digunakan oleh militer dan intelijen untuk korelasi metadata dan prediksi ancaman.</p>
+  </div>
 
 </body>
 </html>
